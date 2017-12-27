@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hbase.iml" filepath="$PROJECT_DIR$/.idea/modules/hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hbase_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hbase_main.iml" group="hbase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hbase_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hbase_test.iml" group="hbase" />
+    </modules>
+  </component>
+</project>

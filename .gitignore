@@ -6,3 +6,10 @@ zookeeper/.idea
 zookeeper/gradle
 zookeeper/build
 zookeeper/out
+
+hbase/.idea/libraries
+hbase/.gradle
+hbase/gradle
+hbase/out
+
+*.iml
