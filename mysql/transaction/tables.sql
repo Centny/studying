@@ -1,0 +1,16 @@
+CREATE TABLE TEST_VAL1
+(
+   TID                  INT NOT NULL AUTO_INCREMENT,
+   VALUE                INT NOT NULL,
+   PRIMARY KEY (TID)
+);
+
+CREATE TABLE TEST_VAL2
+(
+   TID                  INT NOT NULL AUTO_INCREMENT,
+   VALUE                INT NOT NULL,
+   PRIMARY KEY (TID)
+);
+
+INSERT INTO TEST_VAL1 VALUES ('1', '0'), ('2', '0'), ('3', '0');
+INSERT INTO TEST_VAL2 VALUES ('1', '0'), ('2', '0'), ('3', '0');

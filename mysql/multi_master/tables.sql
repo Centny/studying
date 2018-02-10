@@ -1,0 +1,8 @@
+CREATE TABLE ODS_ORDER
+(
+   TID                  INT NOT NULL AUTO_INCREMENT,
+   USERNAME             VARCHAR(32) NOT NULL,
+   PASSWORD             VARCHAR(32) NOT NULL,
+   STATUS               VARCHAR(32) NOT NULL,
+   PRIMARY KEY (TID)
+);
